@@ -7,6 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rityakash/DSA-PROBLEM/tree/master/1189-maximum-number-of-balloons) |
-
-
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rityakash/DSA-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rityakash/DSA-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
