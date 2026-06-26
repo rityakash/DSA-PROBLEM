@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rityakash/DSA-PROBLEM/tree/master/0202-happy-number) |
 | [1189-maximum-number-of-balloons](https://github.com/rityakash/DSA-PROBLEM/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rityakash/DSA-PROBLEM/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/rityakash/DSA-PROBLEM/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rityakash/DSA-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rityakash/DSA-PROBLEM/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rityakash/DSA-PROBLEM/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rityakash/DSA-PROBLEM/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
