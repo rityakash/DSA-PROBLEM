@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rityakash/DSA-PROBLEM/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/rityakash/DSA-PROBLEM/tree/master/0202-happy-number) |
 | [1189-maximum-number-of-balloons](https://github.com/rityakash/DSA-PROBLEM/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rityakash/DSA-PROBLEM/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/rityakash/DSA-PROBLEM/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/rityakash/DSA-PROBLEM/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rityakash/DSA-PROBLEM/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rityakash/DSA-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
@@ -35,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rityakash/DSA-PROBLEM/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rityakash/DSA-PROBLEM/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rityakash/DSA-PROBLEM/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
