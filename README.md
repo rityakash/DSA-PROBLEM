@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rityakash/DSA-PROBLEM/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rityakash/DSA-PROBLEM/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
